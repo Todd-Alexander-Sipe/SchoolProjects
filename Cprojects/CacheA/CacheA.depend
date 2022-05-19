@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637546416 source:c:\users\tasip\onedrive\desktop\cprojects\cachea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<getopt.h>
+	<math.h>
+	<strings.h>
+
+1637076523 source:c:\users\tasip\onedrive\desktop\cprojects\cachea\testing.c
+
